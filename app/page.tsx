@@ -86,7 +86,9 @@ export default function Home() {
           <h1 className="text-5xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent mb-3">
             Vercel + DBOS Integration
           </h1>
-          <p className="text-gray-600 dark:text-gray-400 text-lg">Run durable background workflows from your Vercel app</p>
+          <p className="text-gray-600 dark:text-gray-400 text-lg">
+            Run durable background workflows from your Vercel app
+          </p>
         </div>
 
         {/* Action Buttons */}
