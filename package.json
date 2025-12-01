@@ -10,8 +10,8 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@dbos-inc/dbos-sdk": "^4.4.4-preview.gc90a14c7ef",
-    "@dbos-inc/otel": "^4.3.8",
+    "@dbos-inc/dbos-sdk": "^4.4.9",
+    "@dbos-inc/otel": "^4.4.9",
     "@vercel/functions": "^3.3.0",
     "@vercel/sandbox": "^1.0.2",
     "dotenv": "^17.2.3",
